@@ -14,6 +14,6 @@ In the academic year 2023-24, I am visiting the Department of Economics at MIT a
 
 ## Education 
 
-- **PhD in Economics, 2021--** Graduate-level coursework in economics and mathematics. 
-- **MSc in Economics, 2021** Research master track. 
-- **BSc in Economics and Business Administration, 2019** 
+- **PhD in Economics, Aalto University, 2021--**   Advanced coursework in economics and mathematics. 
+- **MSc in Economics, Aalto University, 2021**   Research master track. 
+- **BSc in Economics and Business Administration, Aalto University, 2019** 
