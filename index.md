@@ -12,7 +12,7 @@ I am a PhD student in economics at Aalto University. I started my PhD studies in
 
 My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy. 
 
-Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’ Symphony No. 2. 
+Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’s Symphony No. 2. 
 
 ## Working Papers
 
