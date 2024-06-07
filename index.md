@@ -17,6 +17,7 @@ I am a Ph.D. student in economics at Aalto University. My research is mostly the
 
 ## Education 
 
-- **PhD in Economics, Aalto University, 2021--**   Advanced coursework in economics and mathematics. Research visit at MIT Department of Economics in 2023--24. 
+- **PhD in Economics, Aalto University, 2021--**
+  (Research visit at MIT Department of Economics in 2023--24.) 
 - **MSc in Economics, Aalto University, 2021** 
 - **BSc in Economics and Business Administration, Aalto University, 2019** 
