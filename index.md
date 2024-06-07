@@ -8,7 +8,7 @@ layout: homepage
 
 ## About Me
 
-I am a 3rd-year PhD student in economics at Aalto University. My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy.  
+I am a PhD student in economics at Aalto University. My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy. I started my PhD studies in 2021, spent academic year 2023--24 at MIT Department of Economics, and plan to complete the PhD program in 2026.
 
 Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’ Symphony No. 2. 
 
