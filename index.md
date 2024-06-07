@@ -5,7 +5,7 @@ layout: homepage
 
 
 
-<br/><br/>
+<br/>
 
 
 ## About Me
