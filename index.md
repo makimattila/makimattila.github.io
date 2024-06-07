@@ -12,6 +12,8 @@ layout: homepage
 
 I am a 3rd-year PhD student in economics at Aalto University. My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy.  
 
+Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’ Symphony No. 2. 
+
 ## Working Papers
 
 - "Pigouvian Income Taxation", with Lassi Ahlvik and Matti Liski, 2024. [Link.](https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?dl=0&e=1&rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3)
