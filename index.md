@@ -8,7 +8,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in economics at Aalto University. My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy.  
+I am a PhD student in economics at Aalto University. My research is mostly theoretical, but it addresses questions that are close to practical issues. I am particularly interested in how incomplete information influences market behavior and optimal government policy.  
 
 ## Working Papers
 
