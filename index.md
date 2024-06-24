@@ -16,5 +16,5 @@ Microeconomic theory is fun, but I also like to wander through the streets of He
 
 ## Working Papers
 
-- "Pigouvian Income Taxation", with Lassi Ahlvik and Matti Liski, 2024. [Link.](https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?dl=0&e=1&rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3)
+- "Pigouvian Income Taxation", with Lassi Ahlvik and Matti Liski, 2024. [Link.](https://www.cesifo.org/en/publications/2024/working-paper/pigouvian-income-taxation)
 - "Fake It Till You Exit", with Eero Mäenpää, 2024. [Link.](https://www.dropbox.com/scl/fo/4kgpftk6id0hlql5tenjl/ANpn5MvEZHDa5Gu-UpMLoeo?rlkey=dfhphq6ezpvp4bylvtwqpv5ss&st=tjgkwm41&dl=0)
