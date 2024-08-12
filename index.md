@@ -9,7 +9,7 @@ layout: homepage
 ## About Me
 
 <p align="justify"> 
-I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash24 at MIT Department of Economics, and plan to complete the PhD program in 2026. </p>
+I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash;24 at MIT Department of Economics, and plan to complete the PhD program in 2026. </p>
 
 <p align="justify"> 
 My research is mostly theoretical. However, it addresses questions that are close to real-world issues of the 21st century. I am particularly interested in how incomplete information influences market behavior and optimal government policy. I use game theory and mechanism design to analyze related questions. </p>
