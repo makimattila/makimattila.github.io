@@ -12,6 +12,8 @@ I am a PhD student in economics at Aalto University. I started my PhD studies in
 
 My research is mostly theoretical. However, it addresses questions that are close to real-world issues of the 21st century. I am particularly interested in how incomplete information influences market behavior and optimal government policy. I use game theory and mechanism design to analyze related questions. 
 
+My research work has been funded by Aalto University, Emil Aaltonen Foundation, Finnish Cultural Foundation, Fulbright Finland Foundation, HSE Support Foundation, KAUTE Foundation, and OP Group Research Foundation. 
+
 Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’s Symphony No. 2. 
 
 ## Working Papers
