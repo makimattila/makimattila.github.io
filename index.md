@@ -21,7 +21,7 @@ I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Fo
 Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’s Symphony No. 2.  </p> 
 
 
-## Working Papers
+## Research
 
 **"Pigouvian Income Taxation"**, with Lassi Ahlvik and Matti Liski, 2024. [Link.](https://www.cesifo.org/en/publications/2024/working-paper/pigouvian-income-taxation)
 
