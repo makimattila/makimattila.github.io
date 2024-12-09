@@ -36,3 +36,6 @@ We examine how the possibility of buyouts affects start-ups’ incentives to inn
 **"Cat in a Bag,"** with Jana Gieselmann and Teemu Pekkarinen, 2024. 
 
 We consider a market in which sellers privately choose vertical product qualities, consumers then receive information about the chosen qualities according to a predetermined information structure, and the sellers compete in prices given consumers' posterior beliefs. We characterize market outcomes for different information structures and levels of competition. With a monopoly seller, the seller-optimal information structure fully discloses quality and incentivizes welfare-maximizing quality provision. If there are several sellers, the seller-optimal symmetric information structure is coarse and incentivizes randomization in quality choice, leading to vertical differentiation in terms of consumers' posterior beliefs. Notably, if the information structure is designed to maximize sellers’ profit, competition among sellers leads to lower quality and buyers having less information about quality. We compare the results to an alternative model in which quality is exogenous, eliminating the moral hazard problem.
+
+**"The Design and Price of Certification,"** with Yucheng Shang and Ryo Shirakawa, 2024. (Working paper will be available within the next couple of weeks.)  
+
