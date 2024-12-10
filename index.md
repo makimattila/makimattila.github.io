@@ -12,13 +12,13 @@ layout: homepage
 I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash;24 at MIT Department of Economics, and plan to complete the PhD program in 2026. </p>
 
 <p align="justify"> 
-My research is mostly theoretical. However, it addresses questions that are close to real-world issues of the 21st century. I am particularly interested in how incomplete information influences market behavior and optimal government policy. I use game theory and mechanism design to analyze related questions. </p>
+My field of research is microeconomics. I employ game theory and mechanism design to examine how incomplete information influences market behavior and optimal government policy. Most of my research is theoretical, but the applications include pressing 21st-century issues, such as environmental crises, the rise of inequality, and regulation of the technology industry. When appropriate, I like to supplement the theoretical insights with empirical evidence. </p>
 
 <p align="justify"> 
 I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Foundation, Fulbright Finland Foundation, HSE Support Foundation, KAUTE Foundation, and OP Group Research Foundation for funding my research work.  </p> 
 
 <p align="justify"> 
-Microeconomic theory is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’s Symphony No. 2.  </p> 
+Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night, marveling at the Art Nouveau façades and watching the waves of the Baltic Sea, perhaps accompanied by the majesty of Sibelius’s Symphony No. 2.  </p> 
 
 
 ## Research
