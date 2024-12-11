@@ -25,8 +25,7 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 **"Pigouvian Income Taxation,"** with Lassi Ahlvik and Matti Liski, 2024. [Link.](https://www.cesifo.org/en/publications/2024/working-paper/pigouvian-income-taxation)
 
-This paper develops a mechanism design approach to study externalities and redistribution. The mechanism screens individuals' social weights to strike a balance among broad distributional objectives, incentives to work, and incentives to reduce externalities. The welfare-optimal allocation can be decentralized through income taxation, defining income-dependent externality payments. Two applications use individual-level administrative data on incomes, pollution measures, and financial burdens to demonstrate how population characteristics shape the optimal policy on carbon emissions.
-
+Major climate policies deviate from uniform carbon taxation by varying implicit externality prices across income groups. We show that such deviations are optimal in a mechanism design model of externalities and redistribution: price paid on the externality can be either progressive or regressive in income. The optimal allocation is decentralized through income taxation, with income-dependent externality payments determined by aversion to inequality in cost burdens and behavioral responses of emissions and earnings. Using Finnish administrative data, we quantify these determinants and find that optimal policies are progressive for vehicles but regressive for electricity consumption.
 
 **"Fake It Till You Exit,"** with Eero Mäenpää, 2024. [Link.](https://www.dropbox.com/scl/fo/4kgpftk6id0hlql5tenjl/ANpn5MvEZHDa5Gu-UpMLoeo?rlkey=dfhphq6ezpvp4bylvtwqpv5ss&st=tjgkwm41&dl=0)
 
