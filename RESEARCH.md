@@ -1,3 +1,5 @@
-layout: homepage.html
+---
+layout: page
 title: "Research"
 permalink: /research/
+---
