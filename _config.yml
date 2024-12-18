@@ -55,3 +55,11 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+
+# Navigation links
+nav_links:
+  - title: "About me"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
