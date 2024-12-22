@@ -18,7 +18,7 @@ My field of research is microeconomics. I employ game theory and mechanism desig
 I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Foundation, Fulbright Finland Foundation, HSE Support Foundation, KAUTE Foundation, and OP Group Research Foundation for funding my research work.  </p> 
 
 <p align="justify"> 
-Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night---marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
+Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
 
 
 ## Research
