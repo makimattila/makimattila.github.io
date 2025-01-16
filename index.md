@@ -29,7 +29,7 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 **"The Design and Price of Certification,"** with Yucheng Shang and Ryo Shirakawa, 2024. [Link.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549)
 
-**"Cat in a Bag,"** with Jana Gieselmann and Teemu Pekkarinen, 2024. 
+**"Pig in a Poke,"** with [Jana Gieselmann](https://sites.google.com/view/jana-gieselmann/home) and [Teemu Pekkarinen](https://www.teemupekkarinen.com/), 2024. 
 
 
 
