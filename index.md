@@ -23,7 +23,7 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 ## Research
 
-**"[Pigouvian Income Taxation](https://www.dropbox.com/home/Income%20and%20CO2%20tax/public),"** with [Lassi Ahlvik](https://sites.google.com/site/lassiahlvik/) and [Matti Liski](https://hse-econ.fi/liski/), 2024.
+**"[Pigouvian Income Taxation](https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0),"** with [Lassi Ahlvik](https://sites.google.com/site/lassiahlvik/) and [Matti Liski](https://hse-econ.fi/liski/), 2024.
 
 **"[Fake It Till You Exit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064140),"** with Eero Mäenpää, 2024. 
 
