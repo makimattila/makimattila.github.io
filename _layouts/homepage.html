@@ -69,13 +69,23 @@
       display: none;
     }
 
-    /* Style for the abstract text */
-    .abstract {
-      margin-top: 10px;
-      padding: 10px;
-      background-color: #f9f9f9;
-      border-left: 3px solid #ccc;
-    }
+    /* Light mode styles */
+.abstract {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f9f9f9; /* Light background */
+  border-left: 3px solid #ccc;
+  color: #333; /* Dark text for light mode */
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  .abstract {
+    background-color: #333; /* Dark background */
+    border-left: 3px solid #666; /* Darker border */
+    color: #f9f9f9; /* Light text for dark mode */
+  }
+}
 
     /* Add vertical space between research papers */
     .paper {
