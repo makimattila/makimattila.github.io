@@ -141,15 +141,22 @@
         console.log('Button clicked:', this); // Debugging log 3
 
         const abstract = this.nextElementSibling;
-        console.log('Abstract element:', abstract); // Debugging log 4
+        console.log('Next sibling element:', abstract); // Debugging log 4
 
-        if (!abstract || !abstract.classList.contains('abstract')) {
-          console.error('Abstract element not found or does not have the correct class!');
+        if (!abstract) {
+          console.error('No sibling element found after the button!');
+          return;
+        }
+
+        console.log('Sibling element classes:', abstract.classList); // Debugging log 5
+
+        if (!abstract.classList.contains('abstract')) {
+          console.error('Sibling element does not have the class "abstract"!');
           return;
         }
 
         abstract.classList.toggle('hidden');
-        console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 5
+        console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
 
         // Change the button text (arrow) based on the state
         if (abstract.classList.contains('hidden')) {
