@@ -18,8 +18,6 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 ## Research
 
-## Research
-
 <div class="paper">
   <h3><a href="https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0">Pigouvian Income Taxation</a>, with <a href="https://sites.google.com/site/lassiahlvik/">Lassi Ahlvik</a> and <a href="https://hse-econ.fi/liski/">Matti Liski</a>, 2024.</h3>
   <button class="toggle-abstract">▼</button>
