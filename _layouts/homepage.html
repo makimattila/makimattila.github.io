@@ -34,6 +34,30 @@
     <link rel="stylesheet" href="{{ '/assets/css/style-no-dark-mode.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/publications-no-dark-mode.css' | relative_url }}">
     {% endif %}
+    <style>
+  /* Style for the toggle button */
+  .toggle-abstract {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 0;
+    margin-left: 10px;
+  }
+
+  /* Hide the abstract by default */
+  .hidden {
+    display: none;
+  }
+
+  /* Style for the abstract text */
+  .abstract {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #ccc;
+  }
+</style>
   </head>
   <body>
     <div class="wrapper">
@@ -105,5 +129,24 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggleButtons = document.querySelectorAll('.toggle-abstract');
+
+    toggleButtons.forEach(button => {
+      button.addEventListener('click', function () {
+        const abstract = this.nextElementSibling;
+        abstract.classList.toggle('hidden');
+
+        // Change the button text (arrow) based on the state
+        if (abstract.classList.contains('hidden')) {
+          this.textContent = '▼';
+        } else {
+          this.textContent = '▲';
+        }
+      });
+    });
+  });
+</script>
   </body>
 </html>
