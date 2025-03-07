@@ -49,4 +49,3 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
     <p>This is the abstract for Paper Title 4.</p>
   </div>
 </div>
-
