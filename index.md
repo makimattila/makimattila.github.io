@@ -24,7 +24,7 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 **"[Pigouvian Income Taxation](https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0),"** with [Lassi Ahlvik](https://sites.google.com/site/lassiahlvik/) and [Matti Liski](https://hse-econ.fi/liski/), 2024.
 <button class="toggle-abstract">▼</button>
 <div class="abstract hidden">
- <p align="justify"> This is the abstract for Paper Title 1.</p>
+ <p> This is the abstract for Paper Title 1.</p>
 </div>
 
 **"[The Design and Price of Certification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549),"** with [Yucheng Shang](https://economics.mit.edu/people/phd-students/yucheng-shang) and [Ryo Shirakawa](https://sites.google.com/view/ryoshirakawa), 2024. 
