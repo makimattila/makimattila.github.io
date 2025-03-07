@@ -1,8 +1,6 @@
 ---
 layout: homepage
 ---
-<link rel="stylesheet" href="{{ '/assets/css/abstracts.css' | relative_url }}">
-
 
 
 
