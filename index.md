@@ -18,30 +18,36 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 ## Research
 
-**"[Pigouvian Income Taxation](https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0),"** with [Lassi Ahlvik](https://sites.google.com/site/lassiahlvik/) and [Matti Liski](https://hse-econ.fi/liski/), 2024.
-{% raw %}
-<button class="toggle-abstract">▼</button><div class="abstract hidden">
-  <p>This is the abstract for Paper Title 1.</p>
-</div>
-{% endraw %}
+## Research
 
-**"[The Design and Price of Certification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549),"** with [Yucheng Shang](https://economics.mit.edu/people/phd-students/yucheng-shang) and [Ryo Shirakawa](https://sites.google.com/view/ryoshirakawa), 2024.
-{% raw %}
-<button class="toggle-abstract">▼</button><div class="abstract hidden">
-  <p>This is the abstract for Paper Title 2.</p>
+<div class="paper">
+  <h3><a href="https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0">Pigouvian Income Taxation</a>, with <a href="https://sites.google.com/site/lassiahlvik/">Lassi Ahlvik</a> and <a href="https://hse-econ.fi/liski/">Matti Liski</a>, 2024.</h3>
+  <button class="toggle-abstract">▼</button>
+  <div class="abstract hidden">
+    <p>This is the abstract for Paper Title 1.</p>
+  </div>
 </div>
-{% endraw %}
 
-**"[Fake It Till You Exit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064140),"** with Eero Mäenpää, 2024.
-{% raw %}
-<button class="toggle-abstract">▼</button><div class="abstract hidden">
-  <p>This is the abstract for Paper Title 3.</p>
+<div class="paper">
+  <h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549">The Design and Price of Certification</a>, with <a href="https://economics.mit.edu/people/phd-students/yucheng-shang">Yucheng Shang</a> and <a href="https://sites.google.com/view/ryoshirakawa">Ryo Shirakawa</a>, 2024.</h3>
+  <button class="toggle-abstract">▼</button>
+  <div class="abstract hidden">
+    <p>This is the abstract for Paper Title 2.</p>
+  </div>
 </div>
-{% endraw %}
 
-**"Pig in a Poke,"** with [Jana Gieselmann](https://sites.google.com/view/jana-gieselmann/home) and [Teemu Pekkarinen](https://www.teemupekkarinen.com/), 2024.
-{% raw %}
-<button class="toggle-abstract">▼</button><div class="abstract hidden">
-  <p>This is the abstract for Paper Title 4.</p>
+<div class="paper">
+  <h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064140">Fake It Till You Exit</a>, with Eero Mäenpää, 2024.</h3>
+  <button class="toggle-abstract">▼</button>
+  <div class="abstract hidden">
+    <p>This is the abstract for Paper Title 3.</p>
+  </div>
 </div>
-{% endraw %}
+
+<div class="paper">
+  <h3>Pig in a Poke, with <a href="https://sites.google.com/view/jana-gieselmann/home">Jana Gieselmann</a> and <a href="https://www.teemupekkarinen.com/">Teemu Pekkarinen</a>, 2024.</h3>
+  <button class="toggle-abstract">▼</button>
+  <div class="abstract hidden">
+    <p>This is the abstract for Paper Title 4.</p>
+  </div>
+</div>
