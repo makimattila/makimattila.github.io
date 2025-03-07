@@ -35,13 +35,20 @@
   <link rel="stylesheet" href="{{ '/assets/css/publications-no-dark-mode.css' | relative_url }}">
   {% endif %}
   <style>
-  /* Style for the main research paper section to match body text */
+  /* Ensure all main body text inherits proper font settings */
+  body, .toggle-text {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+  }
+
+  /* Style for the research paper titles */
   .paper-title {
     font-size: 1em;
     font-family: inherit;
   }
 
-  /* Style toggle button */
+  /* Style for the toggle button */
   .toggle-abstract {
     background: none;
     border: none;
@@ -49,14 +56,7 @@
     font-size: 1em;
     padding: 0;
     margin-left: 10px;
-    color: inherit;  /* Ensure it inherits color for consistency */
-  }
-
-  /* Inherit font properties and appearance from the main body text for toggle text */
-  .toggle-text {
-    font-family: inherit;
-    font-size: inherit;
-    color: inherit;
+    color: inherit; /* Use inherited color */
   }
   
   /* Hide the abstract by default */
