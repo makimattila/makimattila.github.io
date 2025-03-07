@@ -3,7 +3,6 @@ title: Mikael Mäkimattila
 position: Ph.D. Student
 affiliation: Aalto University
 email: mikael.makimattila (at) aalto.fi
-site.affiliation_link: https://www.aalto.fi/en/department-of-economics
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -18,6 +17,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # github_link: https://github.com/
 # linkedin: www.linkedin.com/in/mikael-makimattila
 # twitter: https://twitter.com/
+site.affiliation_link: https://www.aalto.fi/en/department-of-economics
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
