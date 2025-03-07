@@ -131,17 +131,25 @@
         {% endif %}
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    console.log('DOM fully loaded and parsed'); // Debugging log 1
+
     const toggleButtons = document.querySelectorAll('.toggle-abstract');
+    console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
 
     toggleButtons.forEach(button => {
       button.addEventListener('click', function () {
+        console.log('Button clicked:', this); // Debugging log 3
+
         const abstract = this.nextElementSibling;
+        console.log('Abstract element:', abstract); // Debugging log 4
+
         if (!abstract || !abstract.classList.contains('abstract')) {
-          console.error('Abstract element not found!');
+          console.error('Abstract element not found or does not have the correct class!');
           return;
         }
 
         abstract.classList.toggle('hidden');
+        console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 5
 
         // Change the button text (arrow) based on the state
         if (abstract.classList.contains('hidden')) {
