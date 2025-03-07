@@ -128,14 +128,18 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
-    {% endif %}
-    <script>
+<script>
   document.addEventListener('DOMContentLoaded', function () {
     const toggleButtons = document.querySelectorAll('.toggle-abstract');
 
     toggleButtons.forEach(button => {
       button.addEventListener('click', function () {
         const abstract = this.nextElementSibling;
+        if (!abstract || !abstract.classList.contains('abstract')) {
+          console.error('Abstract element not found!');
+          return;
+        }
+
         abstract.classList.toggle('hidden');
 
         // Change the button text (arrow) based on the state
