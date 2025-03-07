@@ -152,43 +152,43 @@
   </script>
   {% endif %}
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log('DOM fully loaded and parsed'); // Debugging log 1
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM fully loaded and parsed'); // Debugging log 1
 
-      const toggleButtons = document.querySelectorAll('.toggle-abstract');
-      console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
+    const toggleButtons = document.querySelectorAll('.toggle-abstract');
+    console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
 
-      toggleButtons.forEach(button => {
-        button.addEventListener('click', function() {
-          console.log('Button clicked:', this); // Debugging log 3
+    toggleButtons.forEach(button => {
+      button.addEventListener('click', function() {
+        console.log('Button clicked:', this); // Debugging log 3
 
-          const abstract = this.nextElementSibling;
-          console.log('Next sibling element:', abstract); // Debugging log 4
+        const abstract = this.nextElementSibling;
+        console.log('Next sibling element:', abstract); // Debugging log 4
 
-          if (!abstract) {
-            console.error('No sibling element found after the button!');
-            return;
-          }
+        if (!abstract) {
+          console.error('No sibling element found after the button!');
+          return;
+        }
 
-          console.log('Sibling element classes:', abstract.classList); // Debugging log 5
+        console.log('Sibling element classes:', abstract.classList); // Debugging log 5
 
-          if (!abstract.classList.contains('abstract')) {
-            console.error('Sibling element does not have the class "abstract"!');
-            return;
-          }
+        if (!abstract.classList.contains('abstract')) {
+          console.error('Sibling element does not have the class "abstract"!');
+          return;
+        }
 
-          abstract.classList.toggle('hidden');
-          console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
+        abstract.classList.toggle('hidden');
+        console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
 
-          // Change the button text and show/hide abstract text based on the state
-          if (abstract.classList.contains('hidden')) {
-            this.innerHTML = '▼ <span class="toggle-text">Show abstract</span>';
-          } else {
-            this.innerHTML = '▲ <span class="toggle-text">Hide abstract</span>';
-          }
-        });
+        // Change the button text and show/hide abstract text based on the state
+        if (abstract.classList.contains('hidden')) {
+          this.innerHTML = '▼ <span class="toggle-text">Show abstract</span>';
+        } else {
+          this.innerHTML = '▲ <span class="toggle-text">Hide abstract</span>';
+        }
       });
     });
-  </script>
+  });
+</script>
 </body>
 </html>
