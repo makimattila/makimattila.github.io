@@ -35,48 +35,47 @@
   <link rel="stylesheet" href="{{ '/assets/css/publications-no-dark-mode.css' | relative_url }}">
   {% endif %}
   <style>
-  /* Style for the main research paper section to match body text */
-  .paper-title {
-    font-size: 1em;
-    font-family: inherit;
-  }
+    /* Style for the research paper titles */
+    .paper-title {
+      font-size: 1em;
+      font-family: inherit;
+    }
 
-  /* Style toggle button */
-  .toggle-abstract {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 1em;
-    padding: 0;
-    margin-left: 10px;
-    color: inherit;  /* Ensure it inherits color for consistency */
-  }
+    /* Style for the toggle button */
+    .toggle-abstract {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1em;
+      padding: 0;
+      margin-left: 10px;
+      color: inherit;  /* Inherit color to match heading text */
+    }
 
-  /* Inherit font properties and appearance from the main body text for toggle text */
-  .toggle-text {
-    font-family: inherit;
-    font-size: inherit;
-    color: inherit;
-  }
-  
-  /* Hide the abstract by default */
-  .hidden {
-    display: none;
-  }
+    /* Style for the toggle text to match body text */
+    .toggle-text {
+      font-family: inherit;
+      color: inherit;
+    }
+    
+    /* Hide the abstract by default */
+    .hidden {
+      display: none;
+    }
 
-  /* Style for the abstract text */
-  .abstract {
-    margin-top: 10px;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-left: 3px solid #ccc;
-  }
+    /* Style for the abstract text */
+    .abstract {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-left: 3px solid #ccc;
+    }
 
-  /* Add vertical space between research papers */
-  .paper {
-    margin-bottom: 20px;
-  }
-</style>
+    /* Add vertical space between research papers */
+    .paper {
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 <body>
   <div class="wrapper">
@@ -152,43 +151,43 @@
   </script>
   {% endif %}
   <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    console.log('DOM fully loaded and parsed'); // Debugging log 1
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('DOM fully loaded and parsed'); // Debugging log 1
 
-    const toggleButtons = document.querySelectorAll('.toggle-abstract');
-    console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
+      const toggleButtons = document.querySelectorAll('.toggle-abstract');
+      console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
 
-    toggleButtons.forEach(button => {
-      button.addEventListener('click', function() {
-        console.log('Button clicked:', this); // Debugging log 3
+      toggleButtons.forEach(button => {
+        button.addEventListener('click', function() {
+          console.log('Button clicked:', this); // Debugging log 3
 
-        const abstract = this.nextElementSibling;
-        console.log('Next sibling element:', abstract); // Debugging log 4
+          const abstract = this.nextElementSibling;
+          console.log('Next sibling element:', abstract); // Debugging log 4
 
-        if (!abstract) {
-          console.error('No sibling element found after the button!');
-          return;
-        }
+          if (!abstract) {
+            console.error('No sibling element found after the button!');
+            return;
+          }
 
-        console.log('Sibling element classes:', abstract.classList); // Debugging log 5
+          console.log('Sibling element classes:', abstract.classList); // Debugging log 5
 
-        if (!abstract.classList.contains('abstract')) {
-          console.error('Sibling element does not have the class "abstract"!');
-          return;
-        }
+          if (!abstract.classList.contains('abstract')) {
+            console.error('Sibling element does not have the class "abstract"!');
+            return;
+          }
 
-        abstract.classList.toggle('hidden');
-        console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
+          abstract.classList.toggle('hidden');
+          console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
 
-        // Change the button text and show/hide abstract text based on the state
-        if (abstract.classList.contains('hidden')) {
-          this.innerHTML = '▼ <span class="toggle-text">Show abstract</span>';
-        } else {
-          this.innerHTML = '▲ <span class="toggle-text">Hide abstract</span>';
-        }
+          // Change the button text and show/hide abstract text based on the state
+          if (abstract.classList.contains('hidden')) {
+            this.innerHTML = '▼ <span class="toggle-text">Show abstract</span>';
+          } else {
+            this.innerHTML = '▲ <span class="toggle-text">Hide abstract</span>';
+          }
+        });
       });
     });
-  });
-</script>
+  </script>
 </body>
 </html>
