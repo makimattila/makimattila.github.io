@@ -16,7 +16,6 @@ I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Fo
 <p align="justify"> 
 Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
 
-
 ## Research
 
 <div class="paper">
@@ -50,3 +49,4 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
     <p>This is the abstract for Paper Title 4.</p>
   </div>
 </div>
+
