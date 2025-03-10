@@ -12,16 +12,16 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
-# cv_link: assets/files/cv.pdf
+ google_scholar: https://scholar.google.com/citations?user=fpDO_KUAAAAJ&hl=en&oi=ao
+ cv_link: assets/files/cv.pdf
 # github_link: https://github.com/
-# linkedin: www.linkedin.com/in/mikael-makimattila
+ linkedin: www.linkedin.com/in/mikael-makimattila
 # twitter: https://twitter.com/
-# site.affiliation_link: https://www.aalto.fi/en/department-of-economics
+ site.affiliation_link: https://www.aalto.fi/en/department-of-economics
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/makimattila_photo7.png
+avatar: ./assets/img/makimattila_photo9.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
