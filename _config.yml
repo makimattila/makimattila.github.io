@@ -1,4 +1,4 @@
-# Basic Information 
+# Basic Information
 title: Mikael Mäkimattila
 position: Ph.D. Student
 affiliation: Aalto University
@@ -10,17 +10,17 @@ keywords: makimattila
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/citations?user=fpDO_KUAAAAJ&hl=en&oi=ao
 # cv_link: /assets/files/cv.pdf
 # github_link: https://github.com/
- linkedin: www.linkedin.com/in/mikael-makimattila
+linkedin: https://www.linkedin.com/in/mikael-makimattila
 # twitter: https://twitter.com/
 # site.affiliation_link: https://www.aalto.fi/en/department-of-economics
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/makimattila_photo9.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
@@ -56,5 +56,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
-
 
