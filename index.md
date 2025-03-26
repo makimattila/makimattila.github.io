@@ -16,7 +16,7 @@ I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Fo
 <p align="justify"> 
 Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
 
-## Research
+## Working Papers
 
 <div class="paper">
   <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0">Pigouvian Income Taxation</a>, with <a href="https://sites.google.com/site/lassiahlvik/">Lassi Ahlvik</a> and <a href="https://hse-econ.fi/liski/">Matti Liski</a>.</h3>
