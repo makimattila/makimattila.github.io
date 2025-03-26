@@ -36,17 +36,17 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 </div>
 
 <div class="paper">
-  <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064140">Fake It Till You Exit</a>, with Eero Mäenpää.</h3>
-  <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
-  <div class="abstract hidden">
-    <p>We examine how the possibility of buyouts affects start-ups' incentives to innovate, enter markets and compete when there is asymmetric information about start-ups' prospects. Informational frictions may encourage a start-up to adopt a "fake-it-till-you-exit strategy" where it innovates little, enters the market without actual competitive advantage and captures the market by selling at a low price to signal it is valuable. Banning acquisitions may stimulate start-ups' innovation but decrease pre-buyout-stage competition.</p>
-  </div>
-</div>
-
-<div class="paper">
   <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194687">Pig in a Poke</a>, with <a href="https://sites.google.com/view/jana-gieselmann/home">Jana Gieselmann</a> and <a href="https://www.teemupekkarinen.com/">Teemu Pekkarinen</a>.</h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
     <p>We consider a market in which sellers privately choose vertical product qualities, consumers then receive information about the chosen qualities according to a predetermined information structure, and the sellers then compete à la Bertrand given consumers' posterior beliefs. We characterize the set of possible market outcomes for different information structures. With a monopoly seller, the seller-optimal information structure fully reveals the quality and incentivizes welfare-maximizing quality production. Under competition, the seller-optimal symmetric information structure is coarse and incentivizes randomization in quality choice, leading to vertical differentiation in terms of consumers' posterior beliefs.</p>
+  </div>
+</div>
+
+<div class="paper">
+  <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064140">Fake It Till You Exit</a>, with Eero Mäenpää.</h3>
+  <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
+  <div class="abstract hidden">
+    <p>We examine how the possibility of buyouts affects start-ups' incentives to innovate, enter markets and compete when there is asymmetric information about start-ups' prospects. Informational frictions may encourage a start-up to adopt a "fake-it-till-you-exit strategy" where it innovates little, enters the market without actual competitive advantage and captures the market by selling at a low price to signal it is valuable. Banning acquisitions may stimulate start-ups' innovation but decrease pre-buyout-stage competition.</p>
   </div>
 </div>
