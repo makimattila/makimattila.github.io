@@ -29,6 +29,9 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 
 <div class="paper">
   <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549">The Design and Price of Certification</a>, with <a href="https://economics.mit.edu/people/phd-students/yucheng-shang">Yucheng Shang</a> and <a href="https://sites.google.com/view/ryoshirakawa">Ryo Shirakawa</a>.</h3>
+
+  --- Accepted at EC '25.
+  
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
     <p>We consider the revenue-maximizing design and pricing of certification contracts. A certifier offers a menu of tests to an information sender, who holds partial private information about an unknown state and seeks to persuade an information receiver to take a favorable action. The selling mechanism gives information to the receiver through two channels: the actual informativeness of the tests and the sender's choice among the options in the menu. We show that the revenue-maximizing menu consists of a single test, as the second channel reduces the gains from market segmentation. The receiver obtains zero surplus, while the sender may receive information rents. In contrast, if the certifier can conceal which test the sender selects, the optimal menu may include multiple tests.</p>
