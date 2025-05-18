@@ -30,9 +30,9 @@ Microeconomics is fun, but I also like to wander through the streets of Helsinki
 <div class="paper">
   <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549">The Design and Price of Certification</a>, with <a href="https://economics.mit.edu/people/phd-students/yucheng-shang">Yucheng Shang</a> and <a href="https://sites.google.com/view/ryoshirakawa">Ryo Shirakawa</a>.</h3>
 
-<ul style="margin-top: 0; margin-bottom: 1em;">
-- Accepted at EC '25.
-</ul>
+ <ul style="margin: 0 0 1em 1em; padding-left: 1em;">
+    <li style="margin-left: -1em;">Accepted at EC '25.</li>
+  </ul>
   
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
