@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-<p align="justify"> 
-I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash;24 at MIT Department of Economics, and plan to complete the PhD program in 2026. __I will be on the academic job market of 2025/2026.__ </p>
+
+I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash;24 at MIT Department of Economics, and plan to complete the PhD program in 2026. __I will be on the academic job market of 2025/2026.__ 
 
 <p align="justify"> 
 My field of research is microeconomics. I employ game theory and mechanism design to examine how incomplete information influences market behavior and optimal government policy. Most of my research is theoretical, but the applications include pressing 21st-century issues, ranging from environmental crises and the rise of inequality to the regulation of the technology industry. When appropriate, I supplement the theoretical insights with empirical evidence. </p>
