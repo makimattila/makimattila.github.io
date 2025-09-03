@@ -5,16 +5,16 @@ layout: homepage
 ## About Me
 
 
-I am a PhD student in economics at Aalto University. I started my PhD studies in 2021, spent academic year 2023&ndash;24 at MIT Department of Economics, and will complete the PhD program in 2026. __I will be on the academic job market of 2025/2026.__ 
+I am a PhD student in Economics at Aalto University. I began my doctoral studies in 2021, spent the 2023–24 academic year at the MIT Department of Economics, and will be on the academic job market in 2025–26.
 
 <p align="justify"> 
-My field of research is microeconomics. I employ game theory and mechanism design to examine how incomplete information influences market behavior and optimal government policy. Most of my research is theoretical, but the applications include pressing 21st-century issues, ranging from environmental crises and the rise of inequality to the regulation of the technology industry. When appropriate, I supplement the theoretical insights with empirical evidence. </p>
+I study microeconomics, using game theory and mechanism design to examine how asymmetric information shapes market behavior and optimal regulation. Although primarily theoretical, my work addresses pressing policy challenges such as environmental policy, economic inequality, and the regulation of digital markets, and I occasionally complement theory with empirical evidence. </p>
 
 <p align="justify"> 
 I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Foundation, Fulbright Finland Foundation, HSE Support Foundation, KAUTE Foundation, and OP Group Research Foundation for funding my research work.  </p> 
 
 <p align="justify"> 
-Microeconomics is fun, but I also like to wander through the streets of Helsinki on a sunlit summer night&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
+Microeconomics is fun, but I also like to wander through Helsinki on sunlit summer nights&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
 
 ## Working Papers
 
