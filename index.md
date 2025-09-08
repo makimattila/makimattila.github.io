@@ -16,7 +16,21 @@ I am grateful to Aalto University, Emil Aaltonen Foundation, Finnish Cultural Fo
 <p align="justify"> 
 Microeconomics is fun, but I also like to wander through Helsinki on sunlit summer nights&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  </p> 
 
-## Working Papers
+## Research
+
+
+<div class="paper">
+  <h3 class="paper-title">Inequality-Aware Regulation</h3>
+  <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
+  <div class="abstract hidden">
+    <p>I study optimal monopoly regulation when inequality concerns interact with private information on both sides of the market.   Buyers privately know their willingness to pay for quality, and the firm has private information about its demand.  The regulator designs a regulatory mechanism governing the firm's price-quality menu  and maximizes a weighted utilitarian objective with heterogeneous welfare weights over buyers’ welfare and the firm’s profit. 
+The mechanism must satisfy incentive compatibility for both sides of the market. Buyers' private information and the regulator's concern about buyer-side inequality justify inequality-aware pricing regulation:  an inexpensive basic option with downward‑distorted quality, and flexibility in pricing premium qualities. 
+ However, the firm's private information and concern about redistribution across the two sides of the market justify cost-plus pricing regulation; the optimal mechanism combines the two in a state-contingent manner. 
+ The mechanism also elicits the social value of public funds. 
+Finally, I analyze buyer-side subsidies as an alternative to  firm‑side regulation. </p>
+  </div>
+</div>
+
 
 <div class="paper">
   <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0">Pigouvian Income Taxation</a>, with <a href="https://sites.google.com/site/lassiahlvik/">Lassi Ahlvik</a> and <a href="https://hse-econ.fi/liski/">Matti Liski</a>.</h3>
