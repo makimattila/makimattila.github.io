@@ -20,7 +20,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
 
 
 <div class="paper">
-  <h3 class="paper-title">Inequality-Aware Regulation</h3>
+  <h3 class="paper-title">Job Market Paper: Inequality-Aware Regulation</h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
     <p>I study optimal monopoly regulation when inequality concerns interact with private information on both sides of the market.   Buyers privately know their willingness to pay for quality, and the firm has private information about its demand.  The regulator designs a regulatory mechanism governing the firm's price-quality menu  and maximizes a weighted utilitarian objective with heterogeneous welfare weights over buyers’ welfare and the firm’s profit. 
