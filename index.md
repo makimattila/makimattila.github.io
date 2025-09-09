@@ -23,11 +23,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
   <h3 class="paper-title">Job Market Paper: Inequality-Aware Regulation</h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
-    <p>I study optimal monopoly regulation when inequality concerns interact with private information on both sides of the market.   Buyers privately know their willingness to pay for quality, and the firm has private information about its demand.  The regulator designs a regulatory mechanism governing the firm's price-quality menu  and maximizes a weighted utilitarian objective with heterogeneous welfare weights over buyers’ welfare and the firm’s profit. 
-The mechanism must satisfy incentive compatibility for both sides of the market. Buyers' private information and the regulator's concern about buyer-side inequality justify inequality-aware pricing regulation:  an inexpensive basic option with downward‑distorted quality, and flexibility in pricing premium qualities. 
- However, the firm's private information and concern about redistribution across the two sides of the market justify cost-plus pricing regulation; the optimal mechanism combines the two in a state-contingent manner. 
- The mechanism also elicits the social value of public funds. 
-Finally, I analyze buyer-side subsidies as an alternative to  firm‑side regulation. </p>
+    <p>I study optimal monopoly regulation with inequality concerns. Buyers privately know their willingness to pay for quality, and the firm has private information about its demand. The regulator designs a regulatory mechanism governing the firm's price-quality menu  and maximizes a weighted utilitarian objective with heterogeneous welfare weights. Buyers' private information and the regulator's concern about buyer-side inequality justify inequality-aware pricing regulation:  an inexpensive basic option with downward‑distorted quality and flexibility in pricing premium qualities. However, the firm's private information and concern about redistribution across the two sides of the market justify cost-plus pricing regulation; the optimal mechanism combines the two types of regulation in a state-contingent manner. The mechanism also elicits the social value of public funds in the market. Finally, I analyze buyer-side subsidies as an alternative to  firm‑side regulation.  </p>
   </div>
 </div>
 
