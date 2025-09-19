@@ -7,7 +7,7 @@ layout: homepage
 
 I am a PhD student in Economics at Aalto University. I began my doctoral studies in 2021, spent the 2023–24 academic year at the MIT Department of Economics, and will be on the academic job market in 2025–26.
 
-[My CV is here.](assets/files/cv.pdf).
+[My CV is here.](assets/files/cv.pdf)
 
 I study microeconomics, using game theory and mechanism design to examine how asymmetric information shapes market behavior and optimal regulation. Although primarily theoretical, my work addresses pressing policy challenges such as environmental policy, economic inequality, and the regulation of digital markets, and I occasionally complement theory with empirical evidence. 
 
