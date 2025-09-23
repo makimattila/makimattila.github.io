@@ -17,7 +17,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
 
 
 <div class="paper">
-  <h3 class="paper-title">Job Market Paper: Inequality-Aware Regulation</h3>
+  <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/09ghs2youexi0fnhkpcoz/ALHfYlksvxEpRGHC0EYU6eQ?rlkey=xlmwsftj8ft03b34wgx81uf1h&st=pugbr9xl&dl=0">Job Market Paper: Inequality-Aware Regulation</a></h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
     <p>I study optimal monopoly regulation when inequality is a concern
@@ -27,6 +27,8 @@ pricing. I also analyze buyer-side subsidies as an alternative to firm-side regu
   </div>
 </div>
 
+
+https://www.dropbox.com/scl/fo/09ghs2youexi0fnhkpcoz/ALHfYlksvxEpRGHC0EYU6eQ?rlkey=xlmwsftj8ft03b34wgx81uf1h&st=pugbr9xl&dl=0
 
 <div class="paper">
   <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0">Pigouvian Income Taxation</a>, with <a href="https://sites.google.com/site/lassiahlvik/">Lassi Ahlvik</a> and <a href="https://hse-econ.fi/liski/">Matti Liski</a></h3>
