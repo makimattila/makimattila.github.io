@@ -17,7 +17,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
 
 
 <div class="paper">
-  <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/09ghs2youexi0fnhkpcoz/ALHfYlksvxEpRGHC0EYU6eQ?rlkey=xlmwsftj8ft03b34wgx81uf1h&st=pugbr9xl&dl=0">Job Market Paper: Inequality-Aware Regulation</a></h3>
+  <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/09ghs2youexi0fnhkpcoz/ALHfYlksvxEpRGHC0EYU6eQ?rlkey=rnsvfl9xnc4a5cw2o0g7dgs90&st=93uv4vqz&dl=0">Job Market Paper: Inequality-Aware Regulation</a></h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
     <p>I study optimal monopoly regulation when inequality is a concern
