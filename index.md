@@ -20,10 +20,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
   <h3 class="paper-title"><a href="https://www.dropbox.com/scl/fo/09ghs2youexi0fnhkpcoz/ALHfYlksvxEpRGHC0EYU6eQ?rlkey=rnsvfl9xnc4a5cw2o0g7dgs90&st=93uv4vqz&dl=0">Job Market Paper: Inequality-Aware Regulation</a></h3>
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
   <div class="abstract hidden">
-    <p>I study optimal monopoly regulation when inequality is a concern
-and both buyers and the firm hold private information. 
-Correlation between buyers’ privately known valuations for quality and their welfare weights justifies inequality-aware pricing: the regulator mandates the firm to offer an inexpensive basic option with downward-distorted quality while granting the firm greater flexibility on pricing premium qualities. However, the firm’s private information about its demand creates a tension between redistribution among buyers and redistribution across the two sides of the market. The optimal regulatory mechanism uses both inequality-aware pricing and cost-plus
-pricing. I also analyze buyer-side subsidies as an alternative to firm-side regulation.  </p>
+    <p>I study optimal monopoly regulation when inequality is a concern and both buyers and the firm hold private information. Correlation between buyers’ privately known valuations for quality and their welfare weights justifies inequality-aware pricing: the regulator mandates that the firm offer an inexpensive basic-quality option  while granting the firm full flexibility in pricing premium qualities. However, the firm’s private information about its demand creates a tension between redistribution among buyers and redistribution across the two sides of the market. The optimal regulatory mechanism combines inequality-aware pricing with cost-plus pricing, where the firm is required to offer each type of the good at cost plus a fixed fee. I also analyze buyer-side subsidies as an alternative to firm-side regulation. </p>
   </div>
 </div>
 
