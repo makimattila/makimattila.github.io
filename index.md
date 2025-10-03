@@ -13,7 +13,7 @@ I study microeconomics, using game theory and mechanism design to examine how as
 
 Microeconomics is fun, but I also like to wander through Helsinki on sunlit summer nights&mdash;marveling at the Art Nouveau façades, watching the waves of the Baltic Sea and listening to a Sibelius symphony.  
 
-## Research
+## Working Papers
 
 
 <div class="paper">
