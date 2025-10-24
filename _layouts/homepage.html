@@ -81,7 +81,18 @@
 @media (prefers-color-scheme: dark){
   .abstract{ border-left-color:rgba(200,200,200,.35); }
 }
-
+    
+/* Match email typography to the affiliation line/link */
+email, email a{
+  font-family: inherit;
+  font-size: 1.10rem;   /* same as your <position> line above */
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: none;
+  letter-spacing: normal;
+  white-space: nowrap;  /* keeps address on one line */
+}
+    
   </style>
 </head>
 <body>
@@ -129,17 +140,6 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
-
-/* Match email typography to the affiliation line/link */
-email, email a{
-  font-family: inherit;
-  font-size: 1.10rem;   /* same as your <position> line above */
-  font-weight: inherit;
-  color: inherit;
-  text-decoration: none;
-  letter-spacing: normal;
-  white-space: nowrap;  /* keeps address on one line */
-}
   
   <!-- NOTE: No custom JS for abstracts anymore -->
 </body>
