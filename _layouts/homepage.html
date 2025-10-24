@@ -48,12 +48,14 @@
 
 /* Stacked meta lines directly under the title */
 .paper-meta{
-  margin-top:.30rem;              /* very close to title */
+  margin-top:.30rem;
   display:flex;
-  flex-direction:column;          /* stack lines */
-  gap:.15rem;                     /* tight space between lines */
+  flex-direction:column;
+  gap:.15rem;
   font-size:.92em;
   opacity:.85;
+  /* NEW: subtle left indent */
+  margin-left:.5rem;     /* choose .5rem–.75rem to taste */
 }
 .meta-line{ line-height:1.25; }
 
