@@ -40,6 +40,28 @@
       font-size: 1em;
       font-family: inherit;
     }
+
+<style>
+  :root{ --gap-1:.25rem; --gap-2:.5rem; --gap-3:.75rem; --gap-4:1rem; --ui-border:rgba(127,127,127,.35); }
+  .paper{ margin:0 0 var(--gap-4) 0; padding:0 0 var(--gap-4) 0; border-bottom:1px solid rgba(127,127,127,.2); }
+  .paper-header{ display:flex; align-items:baseline; column-gap:var(--gap-3); row-gap:var(--gap-1); flex-wrap:wrap; }
+  .paper-title{ display:inline; margin:0; line-height:1.35; font-size:1.05rem; font-family:inherit; }
+  .badges{ display:inline-flex; gap:var(--gap-2); list-style:none; padding:0; margin:0; }
+  .badge{ display:inline-flex; align-items:center; padding:.15rem .5rem; border-radius:999px; border:1px solid var(--ui-border); background:rgba(127,127,127,.10); font-size:.8em; line-height:1.2; white-space:nowrap; }
+  .badge.status{ border-color:rgba(43,113,255,.5); background:rgba(43,113,255,.10); }
+  .badge.jmp{ border-color:rgba(0,170,120,.5); background:rgba(0,170,120,.10); }
+  .toggle-abstract{ margin-left:auto; display:inline-flex; align-items:center; gap:.35rem; padding:.2rem .6rem; border-radius:999px; border:1px solid currentColor; background:transparent; font:inherit; line-height:1.2; cursor:pointer; }
+  .toggle-abstract::before{ content:"▸"; display:inline-block; transition:transform .18s ease; }
+  .toggle-abstract[aria-expanded="true"]::before{ transform:rotate(90deg); }
+  .toggle-abstract:hover,.toggle-abstract:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(127,127,127,.15) inset; }
+  .abstract{ margin-top:var(--gap-3); padding:var(--gap-3) var(--gap-4); border-left:3px solid rgba(127,127,127,.45); background:#f9f9f9; color:#333; }
+  .abstract[hidden]{ display:none; }
+  @media (prefers-color-scheme: dark){
+    .abstract{ background:#333; color:#f3f3f3; border-left-color:rgba(200,200,200,.35); }
+  }
+</style>
+
+
     
 /* Style for the toggle button */
 .toggle-abstract {
@@ -166,44 +188,31 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      console.log('DOM fully loaded and parsed'); // Debugging log 1
+ <script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Wire ARIA attributes for every .paper on the page
+  document.querySelectorAll('.paper').forEach(function(paper, i){
+    var abs = paper.querySelector('.abstract');
+    var btn = paper.querySelector('.toggle-abstract');
+    if (!abs || !btn) return;
+    if (!abs.id) abs.id = 'abs-' + (i + 1);
+    btn.setAttribute('aria-controls', abs.id);
+    btn.setAttribute('aria-expanded', abs.hasAttribute('hidden') ? 'false' : 'true');
+  });
+});
 
-      const toggleButtons = document.querySelectorAll('.toggle-abstract');
-      console.log('Toggle buttons found:', toggleButtons.length); // Debugging log 2
+document.addEventListener('click', function (e) {
+  var btn = e.target.closest('.toggle-abstract');
+  if (!btn) return;
+  var abs = document.getElementById(btn.getAttribute('aria-controls'));
+  if (!abs) return;
+  var willOpen = abs.hasAttribute('hidden');
+  if (willOpen) abs.removeAttribute('hidden'); else abs.setAttribute('hidden','');
+  btn.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+  var txt = btn.querySelector('.toggle-text');
+  if (txt) txt.textContent = willOpen ? 'Hide abstract' : 'Show abstract';
+});
+</script>
 
-      toggleButtons.forEach(button => {
-        button.addEventListener('click', function() {
-          console.log('Button clicked:', this); // Debugging log 3
-
-          const abstract = this.nextElementSibling;
-          console.log('Next sibling element:', abstract); // Debugging log 4
-
-          if (!abstract) {
-            console.error('No sibling element found after the button!');
-            return;
-          }
-
-          console.log('Sibling element classes:', abstract.classList); // Debugging log 5
-
-          if (!abstract.classList.contains('abstract')) {
-            console.error('Sibling element does not have the class "abstract"!');
-            return;
-          }
-
-          abstract.classList.toggle('hidden');
-          console.log('Abstract visibility toggled. Hidden:', abstract.classList.contains('hidden')); // Debugging log 6
-
-          // Change the button text and show/hide abstract text based on the state
-          if (abstract.classList.contains('hidden')) {
-            this.innerHTML = '▼ <span class="toggle-text">Show abstract</span>';
-          } else {
-            this.innerHTML = '▲ <span class="toggle-text">Hide abstract</span>';
-          }
-        });
-      });
-    });
-  </script>
 </body>
 </html>
