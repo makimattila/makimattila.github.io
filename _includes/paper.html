@@ -1,0 +1,28 @@
+<article class="paper" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  <div class="paper-header">
+    <h3 class="paper-title" itemprop="name">
+      <a href="{{ include.p.url }}" itemprop="url">{{ include.p.title }}</a>
+      {% if include.p.coauthors and include.p.coauthors.size > 0 %}, with
+        {% for c in include.p.coauthors %}
+          <a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %} and {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </h3>
+
+    {% if include.p.badges and include.p.badges.size > 0 %}
+      <ul class="badges">
+        {% for b in include.p.badges %}
+          <li class="badge {{ b.kind }}">{{ b.text }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    <button class="toggle-abstract" type="button">
+      <span class="toggle-text">Show abstract</span>
+    </button>
+  </div>
+
+  <div class="abstract" hidden itemprop="abstract">
+    <p>{{ include.p.abstract }}</p>
+  </div>
+</article>
