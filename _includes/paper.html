@@ -1,22 +1,25 @@
 <article class="paper" itemscope itemtype="https://schema.org/ScholarlyArticle">
   <div class="paper-header">
-    <h3 class="paper-title" itemprop="name">
-      <a href="{{ include.p.url }}" itemprop="url">{{ include.p.title }}</a>
-      {% if include.p.coauthors and include.p.coauthors.size > 0 %}, with
-        {% for c in include.p.coauthors %}
-          <a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %} and {% endunless %}
-        {% endfor %}
-      {% endif %}
-      {% if include.p.badges and include.p.badges.size > 0 %}
-        <span class="paper-meta">
-          — {% for b in include.p.badges %}
-            {{ b.text }}{% unless forloop.last %} · {% endunless %}
+    <div class="paper-left">
+      <h3 class="paper-title" itemprop="name">
+        <a href="{{ include.p.url }}" itemprop="url">{{ include.p.title }}</a>
+        {% if include.p.coauthors and include.p.coauthors.size > 0 %}, with
+          {% for c in include.p.coauthors %}
+            <a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %} and {% endunless %}
           {% endfor %}
-        </span>
-      {% endif %}
-    </h3>
+        {% endif %}
+      </h3>
 
-    <!-- Native, no-JS disclosure with built-in arrow -->
+      {% if include.p.badges and include.p.badges.size > 0 %}
+      <div class="paper-meta">
+        {% for b in include.p.badges %}
+          <div class="meta-line">{{ b.text }}</div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <!-- Native, no-JS disclosure on the right -->
     <details class="paper-abs">
       <summary>
         <span class="show">Show abstract</span>
@@ -28,3 +31,4 @@
     </details>
   </div>
 </article>
+
