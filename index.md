@@ -31,7 +31,7 @@ Microeconomics is fun, but I also like to wander through Helsinki on sunlit summ
   <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062549">The Design and Price of Certification</a>, with <a href="https://economics.mit.edu/people/phd-students/yucheng-shang">Yucheng Shang</a> and <a href="https://sites.google.com/view/ryoshirakawa">Ryo Shirakawa</a></h3>
 
  <ul style="margin: 0 0 1em 1em; padding-left: 1em;">
-    <li style="margin-left: -1em;">Extended abstract in EC '25.</li>
+    <li style="margin-left: -1em;">Revise and Resubmit at Theoretical Economics. Extended abstract in EC '25.</li>
   </ul>
   
   <button class="toggle-abstract">▼ <span class="toggle-text">Show abstract</span></button>
