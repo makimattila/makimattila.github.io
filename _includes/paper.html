@@ -2,13 +2,18 @@
   <div class="paper-header">
     <div class="paper-left">
       <h3 class="paper-title" itemprop="name">
-        <a href="{{ include.p.url }}" itemprop="url">{{ include.p.title }}</a>
-        {% if include.p.coauthors and include.p.coauthors.size > 0 %}, with
-          {% for c in include.p.coauthors %}
-            <a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %} and {% endunless %}
-          {% endfor %}
-        {% endif %}
-      </h3>
+  <a href="{{ include.p.url }}" itemprop="url">{{ include.p.title }}</a>
+  {% if include.p.coauthors and include.p.coauthors.size > 0 %}, with
+    {% for c in include.p.coauthors %}
+      {% if c.url and c.url != '' %}
+        <a href="{{ c.url }}">{{ c.name }}</a>
+      {% else %}
+        <span>{{ c.name }}</span>
+      {% endif %}
+      {% unless forloop.last %} and {% endunless %}
+    {% endfor %}
+  {% endif %}
+</h3>
 
       {% if include.p.badges and include.p.badges.size > 0 %}
       <div class="paper-meta">
