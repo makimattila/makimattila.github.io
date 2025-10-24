@@ -35,39 +35,51 @@
   <style>
     :root{ --gap-1:.25rem; --gap-2:.5rem; --gap-3:.75rem; --gap-4:1rem; }
 
-    /* Paper block rhythm */
-    .paper{ margin:0 0 var(--gap-4); padding:0 0 var(--gap-4); border-bottom:1px solid rgba(127,127,127,.2); }
+/* Paper block rhythm (keep your existing vars) */
+.paper{ margin:0 0 var(--gap-4); padding:0 0 var(--gap-4); border-bottom:1px solid rgba(127,127,127,.2); }
 
-    /* Title row keeps things close and baseline-aligned */
-    .paper-header{ display:flex; align-items:baseline; gap:.5rem; flex-wrap:wrap; }
+/* Header: left column (title + meta) and right column (toggle) */
+.paper-header{ display:flex; align-items:flex-start; gap:.75rem; flex-wrap:wrap; }
+.paper-left{ flex:1 1 500px; min-width:260px; }
 
-    /* Title + inline metadata (simple text) */
-    .paper-title{ margin:0; line-height:1.35; font-size:1.05rem; font-family:inherit; }
-    .paper-title a{ text-decoration:none; }
-    .paper-meta{ margin-left:.5rem; font-weight:normal; font-size:.9em; opacity:.8; }
+/* Title */
+.paper-title{ margin:0; line-height:1.28; font-size:1.05rem; font-family:inherit; }
+.paper-title a{ text-decoration:none; }
 
-    /* Native details toggle sits at the right; no JS needed */
-    .paper-abs{ margin-left:auto; }
-    .paper-abs > summary{ list-style:none; cursor:pointer; }
-    .paper-abs > summary::-webkit-details-marker{ display:none; }
-    .paper-abs > summary::before{
-      content:"▸";
-      display:inline-block;
-      margin-right:.35rem;
-      transition:transform .18s ease;
-    }
-    .paper-abs[open] > summary::before{ transform:rotate(90deg); }
+/* Stacked meta lines directly under the title */
+.paper-meta{
+  margin-top:.20rem;              /* very close to title */
+  display:flex;
+  flex-direction:column;          /* stack lines */
+  gap:.15rem;                     /* tight space between lines */
+  font-size:.92em;
+  opacity:.85;
+}
+.meta-line{ line-height:1.25; }
 
-    /* Swap Show/Hide labels with pure CSS */
-    .paper-abs .hide{ display:none; }
-    .paper-abs[open] .show{ display:none; }
-    .paper-abs[open] .hide{ display:inline; }
+/* Native details toggle on the right; no JS */
+.paper-abs{ margin-left:auto; }
+.paper-abs > summary{ list-style:none; cursor:pointer; }
+.paper-abs > summary::-webkit-details-marker{ display:none; }
+.paper-abs > summary::before{
+  content:"▸";
+  display:inline-block;
+  margin-right:.35rem;
+  transition:transform .18s ease;
+}
+.paper-abs[open] > summary::before{ transform:rotate(90deg); }
 
-    /* Abstract block (light/dark friendly) */
-    .abstract{ margin-top:var(--gap-3); padding-left:var(--gap-4); border-left:3px solid rgba(127,127,127,.45); }
-    @media (prefers-color-scheme: dark){
-      .abstract{ border-left-color:rgba(200,200,200,.35); }
-    }
+/* Swap Show/Hide labels */
+.paper-abs .hide{ display:none; }
+.paper-abs[open] .show{ display:none; }
+.paper-abs[open] .hide{ display:inline; }
+
+/* Abstract block */
+.abstract{ margin-top:var(--gap-3); padding-left:var(--gap-4); border-left:3px solid rgba(127,127,127,.45); }
+@media (prefers-color-scheme: dark){
+  .abstract{ border-left-color:rgba(200,200,200,.35); }
+}
+
   </style>
 </head>
 <body>
