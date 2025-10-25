@@ -112,6 +112,40 @@ section h2 {
   line-height: 1.3;
 }
 
+/* === About Me: justified paragraphs (scoped) === */
+.about p{
+  text-align: justify;
+  text-justify: inter-word;     /* nicer word spacing where supported */
+  hyphens: auto;                /* enable language-aware hyphenation */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Keep lists/links readable and not justified */
+.about ul,
+.about ol { text-align: left; }
+
+/* Optional: avoid huge gaps on very narrow screens */
+@media (max-width: 420px){
+  .about p{ hyphens: auto; word-break: normal; overflow-wrap: anywhere; }
+}
+
+    
+    /* === Working Papers: justify abstract text === */
+.paper .abstract p{
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Keep lists inside abstracts readable if you ever add them */
+.paper .abstract ul,
+.paper .abstract ol{
+  text-align: left;
+}
+
     
   </style>
 </head>
