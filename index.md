@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 <div class="about" markdown="1">
 
-I am a PhD candidate in economics at Aalto University. 
+I completed my PhD in economics at Aalto University in June 2026.
 
 In summer 2026, I will join the University of Oslo as an assistant professor (tenure-track). I will also be a part-time research fellow at GRAPE (Warsaw). 
 
