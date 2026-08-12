@@ -5,11 +5,9 @@ layout: homepage
 ## About Me
 <div class="about" markdown="1">
 
-I completed my PhD in economics at Aalto University in June 2026.
+I'm an Assistant Professor in the Department of Economics at the University of Oslo and a part-time research fellow at GRAPE in Warsaw. I did my PhD at Aalto University. 
 
-In summer 2026, I will join the University of Oslo as an assistant professor (tenure-track). I will also be a part-time research fellow at GRAPE (Warsaw). 
-
-My research is in applied microeconomic theory, focusing on how asymmetric information shapes market behavior and optimal regulation.
+In my research, I use mechanism design and game theory to study regulation and market design.
 
 [My CV is here.](assets/files/cv.pdf)
 
