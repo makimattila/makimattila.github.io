@@ -20,8 +20,8 @@
     - { name: "Teemu Pekkarinen", url: "https://www.teemupekkarinen.com/" }
   badges: []
   abstract: >
-    We consider a market in which sellers privately choose vertical product qualities, consumers then receive information about the chosen qualities according to a predetermined information structure, and the sellers then compete à la Bertrand given consumers' posterior beliefs. We characterize the set of possible market outcomes for different information structures. With a monopoly seller, the seller-optimal information structure fully reveals the quality and incentivizes welfare-maximizing quality production. Under competition, the seller-optimal symmetric information structure is coarse and incentivizes randomization in quality choice, leading to vertical differentiation in terms of consumers' posterior beliefs.
-
+   We study how market competition interacts with the design of buyers' information about product quality when sellers privately choose quality. We characterize seller-optimal information under monopoly and in symmetric equilibria of Bertrand competition. Under competition, optimal disclosure is partially informative and sustains randomization over quality. It differentiates the buyer's beliefs about competing products, softening price competition. Under monopoly, full disclosure is seller-optimal: it sustains efficient quality provision and allows the seller to extract the resulting surplus. We therefore highlight that, when disclosure is designed in sellers' interests, competition can lower quality and total surplus. 
+   
 - slug: pigouvian
   title: "Pigouvian Income Taxation"
   url: "https://www.dropbox.com/scl/fo/5t5ent2mhgxuyybj9s9q3/h?rlkey=8iqe7i5ftxbg5p3tsa2tyq7w3&st=xxrr8lfw&dl=0"
