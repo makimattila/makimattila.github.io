@@ -13,6 +13,11 @@ In my research, I use mechanism design and game theory to study regulation and m
 
 </div>
 
+## Publications
+{% for p in site.data.publications %}
+  {% include paper.html p=p %}
+{% endfor %}
+
 ## Working Papers
 {% for p in site.data.papers %}
   {% include paper.html p=p %}
