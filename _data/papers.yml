@@ -22,7 +22,7 @@
 
 - slug: jmp
   title: "Inequality-Aware Regulation"
-  url: assets/files/inequality_aware_regulation.pdf
+  url: "https://arxiv.org/pdf/2611.12301"
   coauthors: []
   abstract: >
    I study regulation of a screening monopolist when the regulator cares about the distribution of surplus across heterogeneous consumers and the firm.  Consumers privately know their willingness to pay for quality, and the firm privately knows its production costs. Regulatory contracts specify quality--price options that the firm must offer. I show that when the regulator gives greater weight to consumers with lower willingness to pay, baseline regulation is optimal: the regulator requires affordable basic options but leaves the firm free to design and price premium options. Under strong consumer-side redistributive concerns, a single required basic option suffices. The regulator uses the firm's incentive to extract surplus from premium buyers to support low regulated prices for basic options.
